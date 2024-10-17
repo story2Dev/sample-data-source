@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Lao",
+        "code": "lo_LA",
+        "native_name": "ພາສາລາວ"
+    },
+    {
+        "name": "English",
+        "code": "en_US",
+        "native_name": "English"
+    },
+    {
+        "name": "Thai",
+        "code": "th_TH",
+        "native_name": "ภาษาไทย"
+    }
+]
